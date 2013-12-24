@@ -1,0 +1,12 @@
+--- thttpd-2.25b/libhttpd.c.orig
++++ thttpd-2.25b/libhttpd.c
+@@ -2074,9 +2074,6 @@
+ 		cp = &buf[5];
+ 		cp += strspn( cp, " \t" );
+ 		hc->hdrhost = cp;
+-		cp = strchr( hc->hdrhost, ':' );
+-		if ( cp != (char*) 0 )
+-		    *cp = '\0';
+ 		if ( strchr( hc->hdrhost, '/' ) != (char*) 0 || hc->hdrhost[0] == '.' )
+ 		    {
+ 		    httpd_send_err( hc, 400, httpd_err400title, "", httpd_err400form, "" );
