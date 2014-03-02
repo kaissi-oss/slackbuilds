@@ -1,3 +1,711 @@
+Fri Feb 21 20:40:16 UTC 2014
+audio/alsa-tools: Validate .desktop file
+audio/connie: Added (organ synth for JACK).
+audio/sunvox: Updated for version 1.7.4b.
+desktop/herbstluftwm: Updated for version 0.5.3.
+desktop/kdeconnect: Updated for version 0.5.
+desktop/ptwit: Added (simple twitter client).
+desktop/superkey-launch: Updated for version 0.32.
+development/coccinelle: Added (matching and transformation engine).
+development/menhir: Added (OCaml parser generator).
+games/gnonograms: Added (Nonogram puzzle generator and solver).
+games/zork: Fix .desktop files so they validate.
+graphics/yagf: Updated for version 0.9.3.
+libraries/eigen3: Fixup archive extraction in some cases
+libraries/libhtp: Added (HTTP parser).
+multimedia/flashplayer-plugin: Updated for version 11.2.202.341.
+network/CherryMusic: Updated for version 0.31.2.
+network/Pafy: Updated for version 0.3.36.
+network/suricata: Added (Network Security Monitoring).
+network/udpxy: Added (UDP-to-HTTP traffic relaying).
+network/you-get: Updated for version 0.3.28.
+python/piprot: Updated for version 0.5.0.
+python/python-oauthlib: Added (OAuth Implementation).
+python/python-twitter: Updated for version 1.3.1 + New Maintainer.
+python/requests-oauthlib: Added (OAuthlib authentication).
+python/selenium: Updated for version 2.40.0.
+python/xtermcolor: Added (Python module for colorizing output).
+system/gparted: Updated for version 0.18.0.
+system/wterm: Added prefix.
++--------------------------+
+Tue Feb 18 20:59:24 UTC 2014
+academic/perlprimer: Fixed syntax error.
+audio/alsaequal: Updated for new caps Eq name.
+audio/ngjackspa: Added (JACK host for LADSPA plugins).
+desktop/qlandkartegt: Updated for version 1.7.6.
+development/Bottleneck: Added (Fast NumPy array functions).
+development/pandas: Added (Powerful data structures).
+development/tstoolbox: Added (manipulate time series files).
+games/xmoto: Update REQUIRES.
+gis/geopy: Updated for version 0.98.
+graphics/CreateCloudMap: Added (cloud map for xplanet).
+graphics/HotShots: Updated for version 2.1.0.
+libraries/ConfigParser: Added (backported configparser).
+libraries/DateTime: Added (DateTime data type).
+libraries/Kivy: Added (rapid development library).
+libraries/VTK: Added (The Visualization Toolkit).
+libraries/mxml: Updated for version 2.8.
+libraries/ode: Updated for version 0.13.
+libraries/ordereddict: Added (substitute for Py2.7's collections).
+libraries/pykdtree: Added (Fast kd-tree implementation).
+libraries/vtk: Removed (replaced by VTK).
+multimedia/lives: Added (Video Editing System).
+multimedia/x265: Added (H265/HEVC video encoder)
+network/CherryMusic: Updated for version 0.3.1.
+network/Pafy: Updated for version 0.3.35.
+network/RYMTracks: Updated for version 0.1.4.
+network/aldryn-client: Added (client for Aldryn Cloud).
+network/hydra: Updated for version 7.6.
+network/mps-youtube: Added (Terminal based YouTube jukebox).
+network/mps: Updated for version 0.20.02.
+network/speedtest-cli: Added (Testing internet bandwidth).
+network/spice-gtk: Updated for version 0.23.
+network/you-get: Updated for version 0.3.27.
+python/Baker: Added (Access to Python functions).
+python/argcomplete: Updated for version 0.7.0.
+python/msgpack-python: Updated for version 0.4.1.
+python/pipstat: Updated for version 0.2.1.
+python/pySmartDL: Updated for version 1.2.2.
+python/pygrametl: Added (ETL programming in Python).
+python/pyresample: Added (geospatial resampling).
+python/python-keyczar: Added (cryptographic toolkit).
+system/asbt: Updated for version 0.8.3.
+system/wterm: Added (VT102 Terminal Emulator).
+system/xfsudo: Upgraded for version 0.4.
++--------------------------+
+Sun Feb 16 07:49:38 UTC 2014
+audio/caps: Updated for version 0.9.20.
+games/dungeon: Fixed segfaults.
+games/hexalate: Updated for version 1.0.3.
+games/oblige: Fix permission and install boss fight data.
+games/tintin: Updated for version 2.01.0.
+gis/OWSLib: Updated for version 0.8.6.
+gis/rasterio: Updated for version 0.6.
+graphics/HotShots: Updated for version 2.0.1.
+graphics/advancecomp: Added (collection of recompression utilities).
+libraries/PrettyTable: Added (library to displaying tabular data).
+libraries/bcdoc: Added (ReST document generation tools).
+libraries/botocore: Added (Low-level, data-driven core of boto 3).
+libraries/chromaprint: Updated for version 1.1.
+libraries/collada-dom: Added (C++ API to the COLLADA XML schema).
+libraries/enum34: Updated for version 0.9.23.
+libraries/jansson: Added (C library).
+libraries/libewf: Updated for version 20140201.
+libraries/libgksu: Fixed helper path on x86_64 + Compress manual.
+libraries/miniupnpc: Updated for version 1.9.
+libraries/opencv: Updated for version 2.4.8.
+libraries/xview: Added (X11 toolkit for OPEN LOOK applications).
+network/FireWorks: Updated for version 0.71.
+network/Pafy: Updated for version 0.3.34.
+network/awscli: Added (Universal Command Line Environment for AWS).
+network/deis: Added (Command-line Client for Deis).
+network/filezilla: Updated for version 3.7.4.1.
+network/livestreamer: Updated for version 1.7.3.
+network/mps: Added (Search, Stream and Download MP3).
+network/pms-youtube: Updated for version 0.01.13.
+network/pubnub-curses: Added (PubNub Curses Terminal Client).
+network/ssvnc: Fixed script.
+network/turbolift: Added (OpenStack Swift Uploader).
+network/yoda: Added (Multiple repositories management).
+office/gnucash: Remove Beta label on README.
+python/PyColorizer: Added (Add color in your shell).
+python/jmespath: Added (JSON Matching Expressions).
+python/monty: Added (missing complement to Python).
+python/pipstat: Added (PyPI packages Counter).
+python/ply: Added (Python Lex & Yacc).
+python/python-swiftclient: Added (OpenStack API Library).
+system/asbt: Updated for version 0.8.2.
+system/ded: Added (directory editor).
+system/gdm: sysconfdir is now /etc/gdm/ instead of /etc/X11/gdm/
+system/hime: Added libchewing in REQUIRES.
+system/sleuthkit: Updated for version 4.1.3.
+system/trachet: Updated for version 0.3.19.
+system/virt-manager: Updated for version 1.0.0.
+system/watch-fs: Added (monitor files changes).
+system/xfsudo: Updated for version 0.3.
++--------------------------+
+Tue Feb 11 18:16:35 UTC 2014
+audio/lv2file: Added (apply lv2 plugins to audio files).
+audio/rev-plugins: Added (LADSPA reverb plugin).
+desktop/dwm: Added xinitrc.dwm.
+development/curlpp: Added (C++ wrapper for libcURL).
+games/connectagram: Updated for version 1.1.2.
+graphics/converseen: Added (image converter and resizer).
+graphics/pygraphviz: Added (Python interface to Graphviz).
+graphics/qiv: Updated for version 2.3.1.
+libraries/PySoundCard: Updated for version 0.4.4.
+libraries/Pykka: Added (A Python implementation of the actor model).
+libraries/libearth: Updated for version 0.1.2.
+libraries/musicbrainzngs: Updated for version 0.5.
+libraries/pies2overrides: Updated for version 2.6.0.
+libraries/pies: Updated for version 2.6.0.
+libraries/tff: Updated for version 0.2.9.
+libraries/ws4py: Added (WebSocket library for Python).
+multimedia/OpenLP: Updated for version 2.0.4.
+multimedia/Poor-Mans-Spotify: Updated for version 0.18.40.
+multimedia/gpodder: Updated for version 3.5.2.
+network/Pafy: Updated for version 0.3.33.
+network/asciinema: Updated for version 0.9.8.
+network/filezilla: Updated for version 3.7.4.
+network/gmapcatcher: Updated for version 0.8.0.4.
+network/pms-youtube: Updated for version 0.01.12.
+network/tornado: Updated for version 3.2.
+network/twitter: Updated for version 1.12.1.
+network/vcspull: Updated for version 0.0.8.4.
+network/weechat: Updated for version 0.4.3.
+network/you-get: Added (video downloader).
+perl/perl-Capture-Tiny: Updated for version 0.24.
+perl/perl-Dist-CheckConflicts: Added dep perl-Module-Runtime.
+perl/perl-Import-Into: Added (import packages into other packages).
+perl/perl-Module-Build-Tiny: Updated for version 0.034.
+perl/perl-Moo: Updated for version 1.004002.
+perl/perl-Test-Harness: Avoid overlap with Slackware's perl package.
+python/frosted: Updated for version 1.3.3.
+python/httplib2: Added patches for ssl.
+python/piprot: Added (Command line utility to show requirements).
+python/pySmartDL: Updated for version 1.2.0.
+system/Attic: Fixed VERSION.
+system/asbt: Added (Managing SBo packages in local repository).
+system/barman: Updated for version 1.3.0.
+system/docker: Reorder build process
+system/hime: Added (input method).
+system/makepasswd: Updated for version 0.5.3.
+system/rsyslog: Updated for version 7.4.9.
+system/sentimental-skk: Updated for version 0.0.141.
+system/termsaver: Updated VERSION in .info.
+system/thermal_daemon: Updated for version 1.1.
+system/tmuxp: Updated for version 0.1.6.
++--------------------------+
+Sat Feb  8 17:12:07 UTC 2014
+academic/octave: Remove Qt5 detection.
+academic/sage: Updated for version 6.1.
+academic/suiteparse: Updated README.
+audio/jack2: Added (Jack Sound Server).
+desktop/dwm: Clarify use of custom patches.
+desktop/superkey-launch: Updated for version 0.31.
+desktop/wminfo: Updated for version 4.1.2.
+development/apache-jmeter: Updated for version 2.11.
+development/brackets: Updated for version 36.
+development/kaaedit: Updated for version 0.36.0.
+development/mysql-workbench: Updated for version 6.1.1.
+development/racket: Updated for version 5.93.
+development/rstudio-desktop: Added (R Statistical IDE).
+gis/Fiona: Updated for version 1.1.1.
+gis/OWSLib: Updated for version 0.8.4.
+gis/foxtrotgps: Moved from Misc category.
+gis/gdal: Moved from Libraries category.
+gis/geopy: Updated for version 0.97.1.
+gis/geoserver-python: Added (GeoServer Python scripting support).
+gis/gpsd: Updated for version 3.10 + Moved from System category.
+gis/grass: Moved from Academic category.
+gis/libgeotiff: Moved from Libraries category.
+gis/viking: Moved from Misc category.
+graphics/digikam: Added liblqr and lensfun to REQUIRES.
+graphics/enblend-enfuse: Updated for version 4.1.2.
+graphics/hugin: Updated for version 2013.0.0.
+graphics/luminance-hdr: Updated for version 2.4.0.
+libraries/CCfits: Added (C++ wrappers for the cfitsio library)
+libraries/GitPython: Added (Python Git Library).
+libraries/LibRaw: Updated for version 0.16.0.
+libraries/async: Added (Async Framework).
+libraries/backports-ssl-match-hostname: Added (Backported SSL).
+libraries/boolstuff: Added (boolean expression tree toolkit).
+libraries/dropbox-python: Added (Official Dropbox REST API Client).
+libraries/enum34: Updated for version 0.9.21.
+libraries/evernote-python: Added (Evernote SDK for Python).
+libraries/facebook-python: Added (Client library for Facebook SDK).
+libraries/gallerize: Added (Web image gallery generator).
+libraries/gitdb: Added (Git Object Database).
+libraries/hurry-filesize: Added (Python library).
+libraries/isodate: Added (date/time/duration parser and formater).
+libraries/leptonica: Updated for version 1.70.
+libraries/liblogging: Added (an easy to use logging library).
+libraries/libnfs: Updated for version 1.9.2.
+libraries/librelp: Updated for version 1.2.2.
+libraries/libwebp: Updated for version 0.4.0.
+libraries/netcdf: Updated for version 4.3.1.
+libraries/pyftpdlib: Added (High-level asynchronous FTP library).
+libraries/pysendfile: Added (Interface to sendfile syscall).
+libraries/python-gnupg: Added (A wrapper for the GnuPG).
+libraries/python-xlrd: Added (extract data from MS Excel).
+libraries/rarfile: Added (RAR archive reader for Python).
+libraries/smmap: Added (Git implementation of memory map manager).
+libraries/tbb: Updated for version 4.2u2.
+libraries/uptime: Added (Cross-platform uptime library).
+multimedia/aegisub: Updated for version 3.1.2.
+multimedia/flashplayer-plugin: Updated for version 11.2.202.336.
+network/CherryMusic: Added (A music streaming server).
+network/Pafy: Updated for version 0.3.30.
+network/RYMTracks: Added (Tracklist Creator for RYM Service).
+network/aria2: Updated for version 1.18.3, new maintainer.
+network/cicb: Added (ICB client).
+network/pms-youtube: Added (Terminal based YouTube jukebox).
+network/twitter: Added(An API and command-line toolset for Twitter).
+network/vcspull: Added (mass-update vcs).
+office/hunspell-en: Added (English hunspell dictionaries).
+office/hunspell-es: Added (Spanish hunspell dictionaries).
+office/pyspread: Added (Python spreadsheet).
+python/frosted: Updated for version 1.3.2.
+python/kaptan: Added (Configuration Manager).
+python/lxml: Updated for version 3.3.0.
+python/pipdeptree: Added (show dependency tree of packages).
+python/pytest: Updated for version 2.5.2.
+python/requirements-detector: Added (find requirements of Python).
+python/selenium: Added (Python bindings for Selenium).
+python/stevedore: Added pysetuptools to REQUIRES.
+ruby/hub: Added (github helper)
+system/PySixel: Updated for version 0.1.7.
+system/clamav: Updated for version 0.98.1.
+system/docker: Added (manager for applications in linux containers)
+system/graphterm: Added (A Graphical Terminal Interface).
+system/quotatool: Added (filesystem quotas from command line).
+system/sentimental-skk: Updated for version 0.0.139.
+system/thinkfan: Added (fan control program).
+system/tmuxp: Added (Manage tmux sessions thru JSON, YAML configs).
+system/ttop: Added (CUI graphical system monitor).
+system/udiskie: Added (Removable disk automounter for udisks).
++--------------------------+
+Sun Feb  2 08:23:34 UTC 2014
+desktop/rodent-icon-theme: Removed (No SBo Maintainer).
+network/rt5370: Removed (No SBo Maintainer).
+network/smb4k: Removed (No SBo Maintainer).
+system/rodent: Removed (No SBo Maintainer).
++--------------------------+
+Sun Feb  2 08:10:38 UTC 2014
+academic/cld2: Updated for version 20140131.
+audio/minimodem: Added (software audio FSK modem).
+desktop/cheser-icon-theme: Removed (No SBo Maintainer).
+desktop/gtkman: Removed (No SBo Maintainer).
+desktop/jwm: Updated for version 2.2.0.
+development/KKEdit: Removed (No SBo Maintainer).
+development/bluefish: Updated for version 2.2.5.
+development/scite: Updated for version 3.3.9.
+games/Domination: Removed (No SBo Maintainer).
+games/qjoypad: Removed (No SBo Maintainer).
+gis/Fiona: Moved from Academic category.
+gis/OWSLib: Moved from Academic category.
+gis/SFCGAL: Moved from Libraries category.
+gis/Shapely: Moved from Academic category.
+gis/geogit: Moved from Academic category.
+gis/geopy: Moved from Python category.
+gis/geos: Moved from Libraries category.
+gis/geoserver-control-flow: Moved from Academic category.
+gis/geoserver-css: Moved from Academic category.
+gis/geoserver-pyramid: Moved from Academic category.
+gis/geoserver-wps: Moved from Academic category.
+gis/geoserver: Moved from Academic category.
+gis/horao: Moved from Academic category.
+gis/laszip: Moved from Libraries category.
+gis/mapnik: Moved from Academic category.
+gis/osm2pgrouting: Moved from Academic category.
+gis/osm2pgsql: Moved from Academic category.
+gis/pdal: Moved from Academic category.
+gis/pgrouting: Moved from Academic category.
+gis/pointcloud: Moved from Academic category.
+gis/postgis: Moved from System category.
+gis/proj: Moved from System category.
+gis/pyproj: Moved from Academic category.
+gis/qgis: Moved from Academic category.
+gis/rasterio: Moved from Academic category.
+gis/udig: Moved from Academic category.
+gis/xplanet: Moved from Desktop category.
+graphics/dcraw: Updated for version 0.9.20.
+graphics/digikam: Re-Added notes about broken lensfun deps.
+graphics/fritzing: Updated for version 0.8.7b.
+libraries/dbh: Removed (No SBo Maintainer).
+libraries/enum34: Updated for version 0.9.20.
+libraries/ffms2: Added (a cross-platform wrapper library)
+libraries/tff: Updated for version 0.2.8.
+libraries/tubo: Removed (No SBo Maintainer).
+libraries/wxGTK3: Fixed the broken wx-config symlink
+multimedia/ProjectX: Removed (No SBo Maintainer).
+multimedia/aegisub: Added (General-purpose subtitle editor)
+multimedia/mtvcgui: Removed (No SBo Maintainer).
+network/FireWorks: Updated for version 0.66.
+network/Pafy: Added (Python API for YouTube content).
+network/QuiteRSS: Updated for version 0.14.3.
+network/retroshare: Updated for version 0.5.5c.
+office/gnucash: Updated for version 2.6.1.
+office/sigil: Updated for version 0.7.4.
+perl/perl-Archive-Extract: Updated for version 0.72.
+perl/perl-Module-Pluggable: Updated for version 5.1.
+python/pycld2: Updated for version 20140131.
+system/the_silver_searcher: Updated for version 0.19.2.
+system/trachet: Updated for version 0.3.17.
+system/unetbootin: Updated for version 585.
++--------------------------+
+Sat Feb  1 06:42:26 UTC 2014
+academic/amd: Renamed and moved from libraries
+academic/arpack-ng: Added (library for solving eigenvalue problems)
+academic/btf: Renamed and moved from libraries.
+academic/camd: Renamed and moved from libraries.
+academic/ccolamd: Renamed and moved from libraries.
+academic/cholmod: Renamed and moved from libraries.
+academic/colamd: Renamed and moved from libraries.
+academic/csparse: Renamed and moved from libraries.
+academic/cxsparse: Renamed and moved from libraries.
+academic/klu: Renamed and moved from libraries.
+academic/ldl: Renamed and moved from libraries.
+academic/octave: Updated for version 3.8.0.
+academic/rbio: Renamed and moved from libraries.
+academic/spqr: Renamed and moved from libraries.
+academic/suitesparseconfig: Renamed and moved from libraries.
+academic/umfpack: Renamed and moved from libraries.
+audio/easymp3gain: Added patches to fix compile against new FPC.
+desktop/cwp: Updated for version 1.10.0.
+desktop/icewm: Included some patches from Fedora and Gentoo
+desktop/xfce4-battery-plugin: Added (battery monitor panel plugin).
+desktop/xfce4-embed-plugin: Added (Embed arbitrary application).
+desktop/xfce4-eyes-plugin: Added (Eyes that spy on you).
+desktop/xfce4-fsguard-plugin: Added (Checks free space).
+development/Editra: Updated for version 0.7.20.
+development/golang-googlecode-gotools: Added (golang extra tools).
+development/google-go-lang: Unset BASH_ENV during build
+development/google-go-lang: Updated for version 1.2.
+development/robomongo: Updated for version 0.8.4.
+games/yae: Added (Yet another Apple Emulator).
+graphics/fotoxx: Updated for version 14.01.1.
+graphics/pyformex: Added (program to create 3D geometry).
+libraries/AMD: Updated for version 2.3.1.
+libraries/BTF: Updated for version 1.2.0.
+libraries/CAMD: Updated for version 2.3.1.
+libraries/CCOLAMD: Updated for version 2.8.0.
+libraries/CHOLMOD: Updated for version 2.1.2.
+libraries/COLAMD: Updated for version 2.8.0.
+libraries/CSparse: Updated for version 3.1.2.
+libraries/CXSparse: Upgraded for version 3.1.2.
+libraries/KLU: Updated for version 1.2.1.
+libraries/LDL: Updated for version 2.1.0.
+libraries/PyYAML: Updated for version 3.10.
+libraries/RBio: Updated for version 2.1.1.
+libraries/SPQR: Updated for version 1.3.1.
+libraries/SuiteSparse_config: Updated for version 4.2.1.
+libraries/UFconfig: Removed (renamed to SuiteSparse_config)
+libraries/UMFPACK: Updated for version 5.6.2.
+libraries/pgtcl-ng: Updated for version 2.1.0.
+multimedia/Poor-Mans-Spotify: Updated for version 0.18.38.
+network/ClusterSSH: Updated for version 4.02_03.
+network/Flootty: Added (Floobits collaborative terminal).
+network/asciinema: Added (Command line recorder for asciinema.org).
+network/httpie: Added (command line HTTP client).
+network/weathercli: Updated for version 2.3.1.
+office/abiword: Fix a segfault when trying save to pdf
+office/abiword: Fixed icon installation
+office/calibre: Updated for version 1.22.0.
+office/libreoffice-helppack: Updated for version 4.2.0.
+office/libreoffice-langpack: Updated for version 4.2.0.
+office/libreoffice: Updated for version 4.2.0.
+python/argcomplete: Updated for version 0.6.9.
+python/clint: Updated for version 0.3.4.
+python/msgpack-python: Added (MessagePack for Python)
+python/pip: Updated for version 1.5.2.
+python/py: Updated for version 1.4.20.
+python/pysetuptools: Updated for version 2.1.
+python/tox: Updated for version 1.7.0.
+python/virtualenv: Updated for version 1.11.2.
+system/Attic: Added (Deduplicated backups)
+system/em: Updated for version 0.3.
+system/fr: Updated for version 1.19.
+system/gdm: Update glibc crypt patch to fix segfaults
+system/homerun: Added (KDE launcher widgets)
+system/mongodb: Updated for version 2.4.9.
+system/rename: Fixed homepage.
+system/repeat: Added (Repeat command N times every S seconds).
+system/termenu: Added (Interactive in-line menus).
+system/xosd: Note that gdk-pixbuf causes build failure
++--------------------------+
+Thu Jan 30 05:25:12 UTC 2014
+academic/OWSLib: Updated for version 0.8.3.
+academic/amplifx: Added (Manage, test and design your primers).
+academic/freechartgeany: Updated for version 1.1.5.
+academic/gchemutils: Updated for version 0.14.4.
+academic/geoserver-control-flow: Updated for version 2.4.4.
+academic/geoserver-css: Updated for version 2.4.4.
+academic/geoserver-pyramid: Updated for version 2.4.4.
+academic/geoserver-wps: Updated for version 2.4.4.
+academic/geoserver: Updated for version 2.4.4.
+academic/ij-plugins-LOCI: Updated for version 4.4.10.
+academic/ncbi-blast-plus: Updated for version 2.2.29.
+academic/pspp: Added (Free open source replacement of SPSS).
+academic/rasterio: Updated for version 0.5.
+academic/staden: Updated for version 2.0.0b10.
+academic/suitesparse: Updated for version 4.2.1.
+audio/alsacap: Added (ALSA device capability lister).
+audio/azr3: Added (tonewheel organ simulator for jack).
+audio/gmpc-plugins: Updated for version 11.8.16 + New Maintainer.
+audio/gmpc: Updated for version 11.8.16 + New Maintainer.
+audio/gtklick: Added (GUI metronome for JACK).
+audio/jaaa: Added (spectrum analyser for JACK).
+audio/japa: Added (audio spectrum analyser for JACK).
+audio/jkmeter: Added (audio level meter for JACK).
+audio/jnoise: Added (white and pink noise generator for JACK).
+audio/klick: Added (metronome for jack-audio-connection-kit).
+audio/midillo: Added (MIDI file tools).
+audio/mktoc: Update dependency for python-chardet.
+audio/puddletag: Updated for version 1.0.2.
+audio/rakarrack: Fix distortion on x86_64.
+audio/speex: Changed maintainer.
+audio/xmms-jack: Added (xmms output plugin for jack).
+audio/zita-ajbridge: Added (ALSA <=> JACK bridge).
+audio/zita-dpl1: Added (limiter for jack-audio-connection-kit).
+desktop/avant-window-navigator: Fixed unused variables.
+desktop/awn-extras: Fixed unused variables.
+desktop/compton: Added (X compositor).
+desktop/dwm: Restore patches directory.
+desktop/i3: Updated for version 4.7.2.
+desktop/jwm: Fixed download link.
+desktop/lxappearance: Updated for version 0.5.5.
+desktop/matrixgl: Added (The Matrix Screensaver).
+desktop/notion: Updated for version 3_2014010900.
+desktop/plasma-widget-menubar: Added (Plasma Global Menu Support).
+desktop/pyful: Added (Python file management utility).
+desktop/redshift: Updated for version 1.8.
+desktop/superkey-launch: Added (app launcher).
+desktop/wmCalClock: Fixed download link.
+desktop/wmMoonClock: Fixed download link.
+desktop/wmclockmon: Added (windowmaker clock dockapp).
+desktop/xtrlock: Added (minimal X display lock).
+development/Editra: Added (A Developer's Text Editor).
+development/PythonToolkit: Added (interactive environment).
+development/SDL2: Updated for version 2.0.1.
+development/SDL2_image: Added PNG Support.
+development/Sphinx: Updated for version 1.2.1.
+development/avr-gcc: New Maintainer.
+development/brackets: Added (source code editor for web designers).
+development/codeblocks: Fixed unused variables.
+development/cppcms: Updated for version 1.0.4.
+development/cppdb: Added (stand alone connectivity library).
+development/dhex: Added (curses-based hex editor).
+development/diakonos: Added (advanced console text editor).
+development/golang-googlecode-gonet: Added (golang networking libs).
+development/jdk: Updated for version 7u51.
+development/kaaedit: Added (console text editor).
+development/leo: Added (Leonine Editor with Outlines).
+development/pasdoc: Updated for version 0.13.0.
+development/pylint: Updated for version 1.1.0.
+development/wxHexEditor: Updated for version 0.22 + New Maintainer.
+games/angband: Updated for version 3.5.0.
+games/bastet: Added (horribly difficult Tetris clone).
+games/higan: Fixed symlink, cleanups, and download link.
+games/ltris: Updated for version 1.0.19.
+games/pokerth: Fix looking for libircclient's headers.
+games/quakeforge: Fix building on i486 ARCH.
+games/sms_sdl: Added (A Sega Master System and Game Gear Emulator).
+games/xye: Updated for version 0.12.2.
+games/yamagi-quake2: Updated for version 5.21.
+graphics/darktable: Updated for version 1.4.
+graphics/fim: Added (customizable and scriptable image viewer).
+graphics/gifsicle: Added (CL tool for manipulating GIF images).
+graphics/gnofract4d: Added (A program to create fractal images).
+graphics/librecad: Updated for version 2.0.2.
+graphics/oyranos: Updated for version 0.9.4 + New Maintainer.
+graphics/pygifme: Added (simple command line tool to generate GIFs).
+graphics/rawtherapee: Added (High Image Quality).
+graphics/whyteboard: Fix desktop shortcut + Update README.
+haskell/haskell-Crypto: Added (Collects cryptographic functions).
+haskell/haskell-attoparsec: Added (Fast combinator parsing).
+haskell/haskell-curl: Added (Haskell binding to libcurl).
+haskell/haskell-hashable: Added (Hashable class).
+haskell/haskell-hslogger: Added (Versatile logging framework).
+haskell/haskell-scientific: Added (precision floating-point).
+libraries/BeautifulSoup4: Added (Python HTML/XML parser).
+libraries/IMAPClient: Added (IMAP client library).
+libraries/Jinja2: Updated for version 2.7.2.
+libraries/PySoundCard: Added (An audio library).
+libraries/appmenu-qt: Added (Global Menu support for Qt).
+libraries/audioread: Added (multi-library audio decoding).
+libraries/avr-libc: New Maintainer.
+libraries/cffi: Added (Foreign Function Interface for Python).
+libraries/curses_ex: Added (additional curses functions).
+libraries/discogs-client: Added (official client for Discogs).
+libraries/enum34: Added (backported Python 3.4 Enum).
+libraries/exiftool: Updated for version 9.46.
+libraries/futures: Added (Java-style package for Python).
+libraries/gst1-libav: Updated for version 1.2.2.
+libraries/gst1-plugins-bad: Updated for version 1.2.2.
+libraries/gst1-plugins-base: Updated for version 1.2.2.
+libraries/gst1-plugins-good: Updated for version 1.2.2.
+libraries/gst1-plugins-ugly: Updated for version 1.2.2.
+libraries/gstreamer1: Updated for version 1.2.2.
+libraries/imageloader: Added (An image loader library).
+libraries/io_lib: Updated for version 1.13.3.
+libraries/ipaddress: Added (IPv4/IPv6 manipulation library).
+libraries/kaadbg: Added (Remote debugger runner for kaa).
+libraries/libearth: Added (shared library for Earth Reader apps).
+libraries/libmpd: Updated for version 11.8.17 + New Maintainer.
+libraries/libssh2: Fixed HOMEPAGE link.
+libraries/libvirt-python: Updated for version 1.2.1.
+libraries/libvirt: Updated for version 1.2.1.
+libraries/logilab-common: Updated for version 0.60.1.
+libraries/luasocket: Fixed download link.
+libraries/lunatic-python: Added (bridge between Python and Lua).
+libraries/munkres: Added (Munkres algorithm in python).
+libraries/mysql-connector-c++: Fixed library path on x86_64.
+libraries/netcdf: Update MD5SUM.
+libraries/pies2overrides: Added (Override classes with pies).
+libraries/pies: Added (Simple way to write Py2 and Py3 program).
+libraries/pyacoustid: Added (acoustic fingerprinting).
+libraries/pycparser: Added (C parser in Python).
+libraries/pyechonest: Added (Python interf. for Echo Nest APIs).
+libraries/pyjf3: Added (Japanese text functions for Python 3).
+libraries/pylast: Added (Python interface to Last.fm).
+libraries/pymediainfo: Added (wrapper for mediainfo command line).
+libraries/python-librtmp: Added (Python bindings for librtmp).
+libraries/rtorrent-python: Added (A simple rTorrent interface).
+libraries/setproctitle: Added (library to customize process title).
+libraries/tDOM: License Update + Build New Extensions.
+libraries/tcl-inotify: Added (Tcl inotify extension).
+libraries/tff: Added (Terminal Filter Framework).
+libraries/toro: Added (Synchronization primitives).
+libraries/vtk: Added Qt Support + Fix x86_64 cmake.
+libraries/web.py: Added (Web Framework).
+libraries/wjelement: Updated for version 1.0.1.
+libraries/xforms: Updated for version 1.2.3.
+libraries/zend-opcache: Updated for version 7.0.3.
+misc/dvtm: Updated for version 0.10.
+misc/klibc: Added (small C library).
+misc/po4a: Added (PO documentation format converter).
+misc/qtkeychain: Added (Qt API to store passwords and secret data).
+misc/rsibreak: Updated for version 0.11_git5e9d393.
+misc/viking: Updated for version 1.5.
+multimedia/OpenLP: Added (Open Source Worship Presentation).
+multimedia/Poor-Mans-Spotify: Added (Search, Stream MP3).
+multimedia/beets: Added (music tagger and library organizer).
+multimedia/get_iplayer: Updated for version 2.85.
+multimedia/google-earth: Fixed unused variables.
+multimedia/mp3fm: Added icon + desktop shortcut.
+multimedia/xvst: Updated for version 2.5.1.
+network/DarTui: Added (rTorrent web interface).
+network/EarthReader-Web: Added (Earth Reader for Web).
+network/FireWorks: Added (FireWorks workflow software).
+network/Free-Cinema: Added (Search, Download movies via Torrent).
+network/ajaxplorer-sync: Removed (project renamed to pydio-sync).
+network/canto: Update dependency for python-chardet.
+network/chrony: Updated for version 1.29.
+network/deluge: Update dependency for python-chardet.
+network/elinks: Updated for version git20131231 + New Maintainer.
+network/gns3: Updated for version 0.8.6 + New Maintainer.
+network/ike: Added (Shrew Soft VPN Client for Linux and BSD).
+network/livestreamer: Added (Stream Extrator).
+network/netsurf: Added patch for scroll.
+network/newsbeuter: Updated for version 2.8.
+network/nxclient: Fixed download links.
+network/offlineimap: Fixed unused variables.
+network/phpmyadmin: Updated for version 4.1.4.
+network/pydio-sync: Added (desktop sync client for Pydio).
+network/pysub-dl: Added (Download movie subtitles automatically).
+network/qupzilla: Updated for version 1.6.0.
+network/ssvnc: Added (Adds encryption/security to VNC connections).
+network/synergy: Updated for version 1.4.15.
+network/tightvnc: Added (VNC viewing application).
+network/torsocks: Fix lib path in torsocks.
+network/urlwatch: Added (Watch web pages and URLs for changes).
+network/vacuum-im: Updated for version 1.2.4.
+network/wavemon: Updated for version 0.7.6 + New Maintainer.
+network/weathercli: Added (A command line weather tool).
+network/weighmail: Added (Labels your Gmail messages).
+office/calibre: Updated for version 1.20.0.
+office/gnucash: Updated for version 2.6.0.
+office/marave: Added (A text editor).
+office/muttprint: Added (Pretty printing of your mails).
+office/qpdfview: Updated for version 0.4.8.
+perl/perl-CPANPLUS-Dist-Build: Updated for version 0.76.
+perl/perl-Encode-EUCJPASCII: Added (An eucJP-open mapping).
+perl/perl-Encode-HanExtra: Added (Extra sets of Chinese encodings).
+perl/perl-Encode-ISO2022: Added (JISO/IEC 2022 character encoding).
+perl/perl-Encode-JISX0213: Added (JIS X 02I3 encoding).
+perl/perl-IPC-DirQueue: Added (many-to-many queueing system).
+perl/perl-Log-Log4perl: Added (Log4j implementation for Perl).
+perl/perl-MIME-Charset: Added (Charset Information).
+perl/perl-Proc-ProcessTable: Added (Process table Perl extension).
+perl/perl-Text-CharWidth: Added (Column Computer).
+perl/perl-Text-WrapI18N: Added (line wrapping module).
+perl/perl-Time-Piece: Updated for version 1.27.
+perl/perl-Unicode-LineBreak: Added (UAX #14 Unicode Line Breaking).
+python/Flask: Added (Microframework).
+python/Mako: Fixed download link.
+python/PyInstaller: Added (Converts Python programs).
+python/Pyro4: Updated for version 4.22.
+python/argcomplete: Added (Bash tab completion for argparse).
+python/argh: Added (An unobtrusive argparse wrapper).
+python/args: Added (Command Arguments for Humans).
+python/astroid: Added (new abstract syntax tree from Python's ast).
+python/bitarray: Added (Efficient arrays of booleans).
+python/clint: Added (Python Command-line Application Tools).
+python/coverage: Added (Code coverage measurement for Python).
+python/docopt: Added (Command-line interface description language).
+python/frosted: Added (A passive Python syntax checker).
+python/fudge: Added (Python module for using fake objects).
+python/itsdangerous: Added (Various helpers to pass trusted data).
+python/pilkit: Added (utilities and processors for PIL).
+python/purl: Added (An immutable URL class).
+python/py3cairo: Added (Python 3.x bindings for cairo).
+python/py: Added (library with cross-python path).
+python/pySmartDL: Updated for version 1.1.2.
+python/pygame: Updated for version 1.9.1 + New Maintainer.
+python/pytest: Added (simple powerful testing with Python).
+python/python-chardet : Added (renamed from python2-chardet).
+python/python-requests: Updated for version 2.2.0.
+python/python-urllib3: Updated for version 1.7.1.
+python/six: Updated for version 1.5.2.
+python/soundcloud: Added (wrapper library for the Soundcloud API).
+python/sql: Removed the pysetuptools dependency.
+python/termcolor: Added Python3 support.
+python/threadpool: Added pysetuptools as dependency.
+python/tox: Added (virtualenv-based automation of test activities).
+python/waitress: Added (Waitress WSGI server).
+python/wsgiref: Added (WSGI (PEP 333) Reference Library).
+ruby/ruby2: Updated for version 2.0.0_p353.
+system/PySixel: Added (Make SIXEL color graphics).
+system/TLP: Updated for version 0.4.1.
+system/a2tools: Added (copy data to/from Apple II DOS 3.3).
+system/autoarchive: Added (A simple backup utility).
+system/backasa: Added (A Picasa Web Albums backup utility).
+system/barman: Added (Backup and Recovery Manager for PostgreSQL).
+system/bleachbit: Updated for version 1.0.
+system/bochs: Updated for version 2.6.2, fixed linking on x86_64.
+system/brasero: Updated for version 3.11.3.
+system/cbmbasic: Added (Commodore BASIC V2 as a scripting language).
+system/clamtk: Updated for version 5.03.
+system/cpmtools: Added (access CP/M filesystem images or floppies).
+system/d52: Added (disassembler for 8051/8052, 8041/8048, and Z80).
+system/ddg: Added (DuckDuckGo zero-click api for your command-line).
+system/dos33fsprogs: Added (Utilities for the Apple II DOS 3.3 FS).
+system/elasticsearch: Added (distributed RESTful search engine).
+system/em: Added (Highlight some PATTERN in terminal's STDOUT).
+system/findcmd: Added (A command line tool for searching commands).
+system/flashcards: Added (A simple command line flashcards utility).
+system/fr: Added (command-line tool to print free resources).
+system/gentoo: Added (file manager).
+system/gtk-vnc: Script cleanup + New Maintainer.
+system/idle3-tools: Added (Linux/Unix Utility for WD Drives).
+system/info2man: Added (convert GNU info files into man pages).
+system/kasp_updater: Added (updater for Kaspersky antivirus).
+system/libscrypt: Updated for version 1.15.
+system/logkeys: Added (a GNU/Linux keylogger that works).
+system/mlterm: Added (Mlterm is a multilingual terminal emulator).
+system/ncdu: Updated for version 1.10.
+system/nmon: Added (Nigel's performance MONitor).
+system/patool: Added (Portable Archive File Manager).
+system/pmount: Added (mount removable devices as normal user).
+system/polyglotman: Added (convert man pages to other formats).
+system/read-edid: Added (read EDID information).
+system/rename: Added (Renames files using regular expressions).
+system/roxterm: Updated for version 2.8.1.
+system/rtirq: Added (set priorities on kernel IRQ threads).
+system/sentimental-skk: Added (Japanese Input Method SKK).
+system/slack: Added (manage SBo packages in local repository).
+system/termsaver: Added (Simple text-based terminal screensaver).
+system/the_silver_searcher: Updated for version 0.19.1.
+system/thermal_daemon: Updated for version 1.1_rc2.
+system/trachet: Added (Step-by-step/realtime terminal debugger).
+system/ts: Updated for version 0.7.4.
+system/u3-tool: Added (utility for U3 flash drives, including SanDisk and Verbatim).
+system/vagrant: Updated for version 1.4.3.
+system/virtualbox-extension-pack: New Maintainer.
+system/worker: Updated for version 3.3.0.
+system/xen: Remove support for x86
++--------------------------+
 Tue Jan  7 17:15:32 UTC 2014
 academic/Shapely: Updated for version 1.3.0.
 academic/avogadro: Updated for version 1.1.1.

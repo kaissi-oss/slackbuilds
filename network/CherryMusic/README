@@ -1,0 +1,22 @@
+CherryMusic is a music streaming server based on CherryPy and jPlayer.
+It plays the music inside your PC, smartphone, tablet, toaster or whatever
+device has a HTML5 compliant browser installed.
+
+current features:
+
+  - stream your music inside the browser (locally or remote)
+  - browse and search your music
+  - completely AJAX based (no page reloads on click, therefore fast)
+  - create and share playlists
+  - multiple user authentication
+  - HTTPS support
+  - automatic album cover art fetching
+
+Optional dependencies are:
+
+  Live transcoding: lame, vorbis-tools, flac, faad2, mpg123 or ffmpeg (which replaces the abovementioned codecs plus adds WMA decoding)
+  ID3-Tag reading: stagger (works only with Python 3)
+  Automatic resizing of displayed cover art: imagemagick
+  For special character search terms: python-unidecode
+  For the GTK system tray icon: python-gobject
+  HTTPS support in Python 2: pyOpenSSL (in Python 3 it works out of the box)
