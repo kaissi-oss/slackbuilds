@@ -1,0 +1,5 @@
+This module provides a quick, convenient way of bootstrapping a
+user-local Perl module library located within the user's home
+lib allows for the bootstrapping
+and usage of a directory containing Perl modules outside of
+Perl's @INC.
