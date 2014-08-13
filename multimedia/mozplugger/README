@@ -1,6 +1,19 @@
 The goal of the mozplugger project is to provide a minimalist, clean,
-and stable general purpose Mozilla plugin module that allows the
-user to embed and launch their favorite application to handle the
+ and stable general purpose Mozilla plugin module that allows the
+user to embed and launch their favorite application to handle the 
 various different types of media found on the Internet.
 
-You must run mozplugger-update if you update package.
+Notes:
+
+* For Firefox, you may need to delete your local
+  $HOME/.mozilla/firefox/xxx/pluginreg.dat
+  file for mozplugger to be enabled correctly after you install/update it.
+  Replace xxx with the name of your profile.
+
+* For Opera and Acrobat Reader, go to
+  Opera > Settings > Preferences > Advanced > Downloads
+  and do a "Quick find" for "pdf", "Edit" each result to change the
+  "Use plug-in" to "MozPlugger 2.1.5 ..." and save your changes.
+
+* Some other notes are indicated at
+  http://mozplugger.mozdev.org
