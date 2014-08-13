@@ -3,8 +3,15 @@ cmus (ncurses based music player)
 cmus is a small and fast text mode music player
 for Linux and many other UNIX like operating systems.
 
-Optional dependencies (autodetected) are ffmpeg, libmpcdec,
-faad2, libcue, libmp4v2 and pulseaudio.
+Optional dependencies, autodetected and available at SBo:
 
-It can be built also over roar-audio and opus-file (but ATM
-these aren't available at SlackBuilds.org).
+ffmpeg
+faad2
+jack2
+libcue
+libmp4v2
+libmodplug
+libmikmod
+musepack-tools
+opusfile
+pulseaudio
