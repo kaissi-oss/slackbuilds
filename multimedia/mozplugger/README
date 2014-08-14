@@ -1,5 +1,5 @@
 The goal of the mozplugger project is to provide a minimalist, clean,
- and stable general purpose Mozilla plugin module that allows the
+and stable general purpose Mozilla plugin module that allows the
 user to embed and launch their favorite application to handle the 
 various different types of media found on the Internet.
 
@@ -13,7 +13,7 @@ Notes:
 * For Opera and Acrobat Reader, go to
   Opera > Settings > Preferences > Advanced > Downloads
   and do a "Quick find" for "pdf", "Edit" each result to change the
-  "Use plug-in" to "MozPlugger 2.1.5 ..." and save your changes.
+  "Use plug-in" to "MozPlugger 2.1.6 ..." and save your changes.
 
 * Some other notes are indicated at
   http://mozplugger.mozdev.org

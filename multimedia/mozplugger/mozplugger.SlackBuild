@@ -24,7 +24,7 @@
 # Modified by Antonio Hernández Blas <hba.nihilismus@gmail.com>
 
 PRGNAM=mozplugger
-VERSION=${VERSION:-2.1.5}
+VERSION=${VERSION:-2.1.6}
 BUILD=${BUILD:-1}
 TAG=${TAG:-_SBo}
 
@@ -76,9 +76,6 @@ find . \
   --sysconfdir=/etc \
   --mandir=/usr/man \
   --build=$ARCH-slackware-linux
-
-# To avoid an error at compile time
-sed -i 's/LDSHARED=-shared .*/LDSHARED=-shared/' Makefile || true
 
 make
 
